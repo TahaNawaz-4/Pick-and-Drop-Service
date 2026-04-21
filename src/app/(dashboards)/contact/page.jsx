@@ -21,7 +21,7 @@ export default function ContactPage() {
         <div className="bg-white shadow-xl rounded-2xl p-8 border border-gray-100">
 
           <h2 className="text-2xl font-bold text-blue-600 mb-6">
-            Send a Message
+            Send a complain
           </h2>
 
           <form className="space-y-4">
